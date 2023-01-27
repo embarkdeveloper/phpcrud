@@ -20,7 +20,11 @@ if(isset($_GET['delid']))
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<<<<<<< HEAD
 		<title>Embark</title>
+=======
+		<title>Bootstrap Elegant Table Design</title>
+>>>>>>> 08615a672f1a9e788d281516bd9585f5858e08e1
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -171,7 +175,11 @@ if(isset($_GET['delid']))
 					<div class="table-title">
 						<div class="row">
 							<div class="col-sm-5">
+<<<<<<< HEAD
 								<h2>Users <b>Management</b></h2>
+=======
+								<h2>User <b>Management</b></h2>
+>>>>>>> 08615a672f1a9e788d281516bd9585f5858e08e1
 							</div>
 							<div class="col-sm-7" align="right">
 								<a href="insert.php" class="btn btn-secondary"><i class="material-icons">&#xE147;</i> <span>Add New User</span></a>
