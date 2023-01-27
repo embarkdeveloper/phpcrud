@@ -172,11 +172,8 @@ if(isset($_GET['delid']))
 					<div class="table-title">
 						<div class="row">
 							<div class="col-sm-5">
-<<<<<<< HEAD
-								<h2>Users <b>Management</b></h2>
-=======
-								<h2>User <b>Management</b></h2>
->>>>>>> 08615a672f1a9e788d281516bd9585f5858e08e1
+					<h2>User <b>Management</b></h2>
+
 							</div>
 							<div class="col-sm-7" align="right">
 								<a href="insert.php" class="btn btn-secondary"><i class="material-icons">&#xE147;</i> <span>Add New User</span></a>
