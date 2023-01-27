@@ -20,11 +20,8 @@ if(isset($_GET['delid']))
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<<<<<<< HEAD
+
 		<title>Embark</title>
-=======
-		<title>Bootstrap Elegant Table Design</title>
->>>>>>> 08615a672f1a9e788d281516bd9585f5858e08e1
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
